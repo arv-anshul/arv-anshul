@@ -19,7 +19,8 @@
   <a href="mailto:arv.anshul.1864@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-### Data Science Projects
+<details>
+<summary><h3>Data Science Projects</h3></summary>
 
 | Project Name                           | Domain      | Repo                                                                         | Libraries                             |
 | -------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ------------------------------------- |
@@ -31,7 +32,10 @@
 | **Crop Recommendation System**         | Agriculture | [Link](https://github.com/arv-anshul/crop-recommendation)                    | `pandas • matplotlib • seaborn`       |
 | **⭐️ Indian Real Estate Analysis**    | Real Estate | [Link](https://github.com/arv-anshul/campusx-project-notebooks)              | `pd-np-plt-sns • statsmodels • scipy` |
 
-### Data Related Projects / Works
+</details>
+
+<details>
+<summary><h3>Data Related Projects / Works</h3></summary>
 
 | Project Name                   | Tag           | Repo                                                       | Libraries                                  |
 | ------------------------------ | ------------- | ---------------------------------------------------------- | ------------------------------------------ |
@@ -42,7 +46,10 @@
 | **India Census 2011 Analysis** | Analysis      | [Link](https://github.com/arv-anshul/India-census-2011)    | `pd-plt-sns • plotly • streamlit`          |
 | **PW Experience Portal**       | Analysis      | [Link](https://github.com/arv-anshul/pw-experience-portal) | `pandas • streamlit`                       |
 
-### Python Projects
+</details>
+
+<details>
+<summary><h3>Python Projects</h3></summary>
 
 | Project Name                    | Repo                                                      | Libraries                                         |
 | ------------------------------- | --------------------------------------------------------- | ------------------------------------------------- |
@@ -50,7 +57,10 @@
 | **DocString Generator**         | [Link](https://github.com/arv-anshul/docstring-generator) | `ast • black • isort • openai • langchain`        |
 | **Statistics Graphs - CampusX** | [Link](https://github.com/arv-anshul/campusx-graphs)      | `numpy • matplotlib • streamlit`                  |
 
-### Other Projects
+</details>
+
+<details>
+<summary><h3>Other Projects</h3></summary>
 
 | Project Name                       | Repo                                                                | Language | Tags                          |
 | ---------------------------------- | ------------------------------------------------------------------- | -------- | ----------------------------- |
@@ -59,7 +69,10 @@
 | **My Custom Themes**               | [Link](https://github.com/arv-anshul/stylus-custom-themes)          | CSS      | CSS, Custom Theme             |
 | **Project Docs Generator**         | [Link](https://github.com/arv-anshul/ineuron-project-docs-template) | Python   | Markdown, YAML, Documentation |
 
-### 🚀 Skills
+</details>
+
+<details>
+<summary><h3>🚀 Skills</h3></summary>
 
 |        Domain | Tech Stacks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +89,7 @@
 |   **Machine Learning** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40px">                                                                                                                                        |
 |             **Extras** | <img src="https://docs.pydantic.dev/latest/logo-white.svg" width="40px">                                                                                                                                                                        |
 
----
+</details>
 
 <details>
   <summary><h3>📊 Github Stats</h3></summary>
