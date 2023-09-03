@@ -1,80 +1,87 @@
-<h3 align="center" style="font-weight: bold;">Data Scientist</h3>
+<h3 align="center" style="font-weight: bold;">I'm Anshul Raj Verma</h3>
 
-<p align="center">
-I am a student of class 12. Also, I am learning <span style="font-weight: bold;">Data Science, Machine Learning, NLP</span>. I have a lot of projects in these domains which are already present in my GitHub. As time passes I am learning new concepts and creating new projects using it.
+- I am currently **a student in the 12th grade**, based in Bihar, India.
+- My career goal is to **become a data scientist**.
+- I have been **actively learning various aspects of data science**, including Machine Learning (ML), Natural Language Processing (NLP), and Deep Learning (DL).
+- I have a strong command of Python, with proficiency in essential programming **concepts like Object-Oriented Programming (OOP), Async Programming, and Type Hinting in Python**.
+- I am also well-versed in web development, having experience with **web frameworks such as Flask and FastAPI**.
+- I possess **advanced web scraping skills**, allowing me to extract data from dynamically loaded websites.
+- Throughout my academic journey, **I have completed multiple ML projects**.
+- Currently, I am **engaged in a real-world project** focused on **_Indian Real Estate_**, applying my knowledge and skills to solve practical challenges in this domain.
+
+<h3 align="center" style="font-weight: bold;">Connect with Me</h3>
+
+<p align="center"> 
+  <a href="https://www.github.com/arv-anshul" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arv-anshul" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/arv-anshul" target="_blank"><img alt="Kaggle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arv_anshul" target="_blank"><img alt="Instagram" width="35px" src="https://github.com/himanshu-03/himanshu-03/raw/main/assets/socials/instagram.png"></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:arv.anshul.1864@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center" style="font-weight: bold;">My Projects</h3>
+### Data Science Projects
 
-1. [PW Skills API](https://github.com/arv-anshul/pw-api): I used **PW (Physics Wallah) private api(s)** which they were used to display there courses on their website and run their courses. I have done lot of work around it and create a Streamlit application in which user can login with their course account and fetch courses data.
-2. [Backorder Prediction System](http://github.com/arv-anshul/ineuron-backorder-prediction): My first end-to-end machine learning project with modular programming with documentation. This project is from Ineuron Internship Portal.
-3. [PW Course Assignment Solution](http://github.com/arv-anshul/pw-impact-batch): I use NLP concepts to build this project. Also, I gather data for this project in different way.
+| Project Name                           | Domain      | Repo                                                                         | Libraries                             |
+| -------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ------------------------------------- |
+| **PW Course Assignment Solution**      | NLP         | [Link](http://github.com/arv-anshul/pw-impact-batch)                         | `nltk • streamlit`                    |
+| **Backorder Prediction System**        | E-Commerce  | [Link](http://github.com/arv-anshul/ineuron-backorder-prediction)            | `sklearn • streamlit`                 |
+| **Money Laundering Prevention System** | Banking     | [Link](https://github.com/arv-anshul/ineuron-money-laundering)               | `sklearn • streamlit`                 |
+| **APS Fault Detection System**         | Detection   | [Link](https://github.com/arv-anshul/ineuron_internship_)                    | `sklearn • streamlit • MongoDB`       |
+| **Credit Card Default Prediction**     | Banking     | [Link](https://github.com/arv-anshul/inueron-credit-card-default-prediction) | `sklearn`                             |
+| **Crop Recommendation System**         | Agriculture | [Link](https://github.com/arv-anshul/crop-recommendation)                    | `pandas • matplotlib • seaborn`       |
+| **⭐️ Indian Real Estate Analysis**    | Real Estate | [Link](https://github.com/arv-anshul/campusx-project-notebooks)              | `pd-np-plt-sns • statsmodels • scipy` |
 
-<h3 align="center" style="font-weight: bold;">My Small Projects</h3>
+### Data Related Projects / Works
 
-1. [Pokedex](https://github.com/arv-anshul/Pokedex): I earned my first GitHub **PULL SHARK** badge from this project. My first Pull Request was get merged in this project. Thanks to [@animefanbhargav](https://github.com/animefanbhargav).
-2. [Web Scrape 99acres.com](https://github.com/arv-anshul/99acres-scrape): I use *website's hidden API* to scrape the properties listed on website. For JSON validation I uses **pydantic** library which explicitly validates the data type of the JSON values. I converted scrapped data into DataFrame which is useful for Data Analysis.
-3. [Simple Attendance System](https://github.com/arv-anshul/attendaadnce-system): This project uses MongoDB, Streamlit and Python techs to work. Which perform **CRUD** operations on MongoDB Databases.
-<h3 align="center" style="font-weight: bold;">FAQs</h3>
+| Project Name                   | Tag           | Repo                                                       | Libraries                                  |
+| ------------------------------ | ------------- | ---------------------------------------------------------- | ------------------------------------------ |
+| **IPL API**                    | API           | [Link](https://github.com/arv-anshul/ipl-api)              | `pd-plt • fastapi • flask`                 |
+| **Web Scrape 99acres.com**     | Web Scrapping | [Link](https://github.com/arv-anshul/99acres-scrape)       | `asycnio • aiohttp • streamlit • pydantic` |
+| **Simple Attendance System**   | Database      | [Link](https://github.com/arv-anshul/attendaadnce-system)  | `MongoDB • streamlit`                      |
+| **Spotify Dashboard**          | Analysis      | [Link](https://github.com/arv-anshul/spotify-dashboard)    | `pd-plt-sns • plotly • streamlit`          |
+| **India Census 2011 Analysis** | Analysis      | [Link](https://github.com/arv-anshul/India-census-2011)    | `pd-plt-sns • plotly • streamlit`          |
+| **PW Experience Portal**       | Analysis      | [Link](https://github.com/arv-anshul/pw-experience-portal) | `pandas • streamlit`                       |
 
-🔭 I’m currently learning with
+### Python Projects
 
-1. Data Science Mentorship Program by **CampusX**
-2. Data Science Masters by **PW Skills + Ineuron**
+| Project Name                    | Repo                                                      | Libraries                                         |
+| ------------------------------- | --------------------------------------------------------- | ------------------------------------------------- |
+| **PW API**                      | [Link](https://github.com/arv-anshul/pw-api)              | `BeautifulSoup • requests • streamlit • pydantic` |
+| **DocString Generator**         | [Link](https://github.com/arv-anshul/docstring-generator) | `ast • black • isort • openai • langchain`        |
+| **Statistics Graphs - CampusX** | [Link](https://github.com/arv-anshul/campusx-graphs)      | `numpy • matplotlib • streamlit`                  |
 
-🌱 I’m currently learning Statistics and ML Algorithms like SVM, Naive Bayes, Random Forest, etc.
+### Other Projects
 
-💬 Ask me about **Machine Learning, NLP and Web Scraping**.
+| Project Name                       | Repo                                                                | Language | Tags                          |
+| ---------------------------------- | ------------------------------------------------------------------- | -------- | ----------------------------- |
+| **Distraction Free YouTube Theme** | [Link](https://github.com/arv-anshul/Distraction-Free-YT-Stylus)    | CSS      | YouTube, Theme                |
+| **ML Project Template**            | [Link](https://github.com/arv-anshul/ml-project-template)           | Python   | Project Template, ML          |
+| **My Custom Themes**               | [Link](https://github.com/arv-anshul/stylus-custom-themes)          | CSS      | CSS, Custom Theme             |
+| **Project Docs Generator**         | [Link](https://github.com/arv-anshul/ineuron-project-docs-template) | Python   | Markdown, YAML, Documentation |
 
-📫 How to reach me: [G-mail](mailto:arv.anshul.1864@gmail.com).
+### 🚀 Skills
 
-<h3 align="center" style="font-weight: bold;">Techs</h3>
+|        Domain | Tech Stacks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px">                                                                                                                                                                                                                           |
+| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40px">                                                                                                                                                                                                            |
+|     **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"> <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40px"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40px">                                                           |
+|    **Extras** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" width="40"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"> |
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="seaborn" width="40" height="40" />
-  </a>
-</p>
+|                 Domain | Library                                                                                                                                                                                                                                         |
+| ---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       **Web Framwork** | <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40px"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40px"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" width="40px"> |
+|      **Data Analysis** | <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40px"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="40px">                                                                                |
+| **Data Visualization** | <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="40px"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40px"> <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="40px">     |
+|   **Machine Learning** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40px">                                                                                                                                        |
+|             **Extras** | <img src="https://docs.pydantic.dev/latest/logo-white.svg" width="40px">                                                                                                                                                                        |
 
 ---
 
 <details>
-  <summary>My Github Stats</summary>
+  <summary><h3>📊 Github Stats</h3></summary>
 
-  <p align=center >
+  <p align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arv-anshul&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="arv-anshul" height=150>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arv-anshul&theme=transparent&hide_border=true" alt="arv-anshul" height=150>
     <img src="https://github-readme-stats.vercel.app/api?username=arv-anshul&rank_icon=percentile&theme=transparent&hide_border=true&include_all_commits=true" alt="arv-anshul" height=150>
