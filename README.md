@@ -22,29 +22,30 @@
 <details>
 <summary><h3>Data Science Projects</h3></summary>
 
-| Project Name                           | Domain      | Repo                                                                         | Libraries                             |
-| -------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ------------------------------------- |
-| **PW Course Assignment Solution**      | NLP         | [Link](http://github.com/arv-anshul/pw-impact-batch)                         | `nltk • streamlit`                    |
-| **Backorder Prediction System**        | E-Commerce  | [Link](http://github.com/arv-anshul/ineuron-backorder-prediction)            | `sklearn • streamlit`                 |
-| **Money Laundering Prevention System** | Banking     | [Link](https://github.com/arv-anshul/ineuron-money-laundering)               | `sklearn • streamlit`                 |
-| **APS Fault Detection System**         | Detection   | [Link](https://github.com/arv-anshul/ineuron_internship_)                    | `sklearn • streamlit • MongoDB`       |
-| **Credit Card Default Prediction**     | Banking     | [Link](https://github.com/arv-anshul/inueron-credit-card-default-prediction) | `sklearn`                             |
-| **Crop Recommendation System**         | Agriculture | [Link](https://github.com/arv-anshul/crop-recommendation)                    | `pandas • matplotlib • seaborn`       |
-| **⭐️ Indian Real Estate Analysis**    | Real Estate | [Link](https://github.com/arv-anshul/campusx-project-notebooks)              | `pd-np-plt-sns • statsmodels • scipy` |
+| Project Name                           | Domain      | Repo                                                                         | Libraries                       |
+| -------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ------------------------------- |
+| **PW Course Assignment Solution**      | NLP         | [Link](http://github.com/arv-anshul/pw-impact-batch)                         | `nltk • streamlit`              |
+| **Backorder Prediction System**        | E-Commerce  | [Link](http://github.com/arv-anshul/ineuron-backorder-prediction)            | `sklearn • streamlit`           |
+| **Money Laundering Prevention System** | Banking     | [Link](https://github.com/arv-anshul/ineuron-money-laundering)               | `sklearn • streamlit`           |
+| **APS Fault Detection System**         | Detection   | [Link](https://github.com/arv-anshul/ineuron_internship_)                    | `sklearn • streamlit • MongoDB` |
+| **Credit Card Default Prediction**     | Banking     | [Link](https://github.com/arv-anshul/inueron-credit-card-default-prediction) | `sklearn`                       |
+| **Crop Recommendation System**         | Agriculture | [Link](https://github.com/arv-anshul/crop-recommendation)                    | `pandas • matplotlib • seaborn` |
+| **Indian Real Estate Project**         | Real Estate | [Link](https://github.com/arv-anshul/campusx-real-estate)                    | `sklearn • statsmodels • scipy` |
 
 </details>
 
 <details>
 <summary><h3>Data Related Projects / Works</h3></summary>
 
-| Project Name                   | Tag           | Repo                                                       | Libraries                                  |
-| ------------------------------ | ------------- | ---------------------------------------------------------- | ------------------------------------------ |
-| **IPL API**                    | API           | [Link](https://github.com/arv-anshul/ipl-api)              | `pd-plt • fastapi • flask`                 |
-| **Web Scrape 99acres.com**     | Web Scrapping | [Link](https://github.com/arv-anshul/99acres-scrape)       | `asycnio • aiohttp • streamlit • pydantic` |
-| **Simple Attendance System**   | Database      | [Link](https://github.com/arv-anshul/attendaadnce-system)  | `MongoDB • streamlit`                      |
-| **Spotify Dashboard**          | Analysis      | [Link](https://github.com/arv-anshul/spotify-dashboard)    | `pd-plt-sns • plotly • streamlit`          |
-| **India Census 2011 Analysis** | Analysis      | [Link](https://github.com/arv-anshul/India-census-2011)    | `pd-plt-sns • plotly • streamlit`          |
-| **PW Experience Portal**       | Analysis      | [Link](https://github.com/arv-anshul/pw-experience-portal) | `pandas • streamlit`                       |
+| Project Name                    | Tag           | Repo                                                            | Libraries                                       |
+| ------------------------------- | ------------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| **IPL API**                     | API           | [Link](https://github.com/arv-anshul/ipl-api)                   | `pd-plt • fastapi • flask`                      |
+| **Web Scrape 99acres.com**      | Web Scrapping | [Link](https://github.com/arv-anshul/99acres-scrape)            | `asycnio • aiohttp • streamlit • pydantic`      |
+| **Simple Attendance System**    | Database      | [Link](https://github.com/arv-anshul/attendaadnce-system)       | `MongoDB • streamlit`                           |
+| **Spotify Dashboard**           | Analysis      | [Link](https://github.com/arv-anshul/spotify-dashboard)         | `pd-plt-sns • plotly • streamlit`               |
+| **India Census 2011 Analysis**  | Analysis      | [Link](https://github.com/arv-anshul/India-census-2011)         | `pd-plt-sns • plotly • streamlit`               |
+| **PW Experience Portal**        | Analysis      | [Link](https://github.com/arv-anshul/pw-experience-portal)      | `pandas • streamlit`                            |
+| **Indian Real Estate Analysis** | Real Estate   | [Link](https://github.com/arv-anshul/campusx-project-notebooks) | `pd-np-plt-sns • statsmodels • scipy • sklearn` |
 
 </details>
 
