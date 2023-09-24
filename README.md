@@ -24,13 +24,13 @@
 
 | Project Name                           | Domain      | Repo                                                                                                           | Libraries                       |
 | -------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **Indian Real Estate Project**         | Real Estate | [campusx-real-estate](https://github.com/arv-anshul/campusx-real-estate)                                       | `sklearn • statsmodels • scipy` |
 | **PW Course Assignment Solution**      | NLP         | [pw-impact-batch](http://github.com/arv-anshul/pw-impact-batch)                                                | `nltk • streamlit`              |
-| **Backorder Prediction System**        | E-Commerce  | [ineuron-backorder-prediction](http://github.com/arv-anshul/ineuron-backorder-prediction)                      | `sklearn • streamlit`           |
 | **Money Laundering Prevention System** | Banking     | [ineuron-money-laundering](https://github.com/arv-anshul/ineuron-money-laundering)                             | `sklearn • streamlit`           |
 | **APS Fault Detection System**         | Detection   | [ineuron*internship*](https://github.com/arv-anshul/ineuron_internship_)                                       | `sklearn • streamlit • MongoDB` |
+| **Backorder Prediction System**        | E-Commerce  | [ineuron-backorder-prediction](http://github.com/arv-anshul/ineuron-backorder-prediction)                      | `sklearn • streamlit`           |
 | **Credit Card Default Prediction**     | Banking     | [ineuron-credit-card-default-prediction](https://github.com/arv-anshul/ineuron-credit-card-default-prediction) | `sklearn`                       |
 | **Crop Recommendation System**         | Agriculture | [crop-recommendation](https://github.com/arv-anshul/crop-recommendation)                                       | `pandas • matplotlib • seaborn` |
-| **Indian Real Estate Project**         | Real Estate | [campusx-real-estate](https://github.com/arv-anshul/campusx-real-estate)                                       | `sklearn • statsmodels • scipy` |
 
 </details>
 
@@ -39,13 +39,13 @@
 
 | Project Name                    | Tag           | Repo                                                                                 | Libraries                                       |
 | ------------------------------- | ------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| **IPL API**                     | API           | [ipl-api](https://github.com/arv-anshul/ipl-api)                                     | `pd-plt • fastapi • flask`                      |
+| **Indian Real Estate Analysis** | Real Estate   | [campusx-project-notebooks](https://github.com/arv-anshul/campusx-project-notebooks) | `pd-np-plt-sns • statsmodels • scipy • sklearn` |
 | **Web Scrape 99acres.com**      | Web Scrapping | [99acres-scrape](https://github.com/arv-anshul/99acres-scrape)                       | `asycnio • aiohttp • streamlit • pydantic`      |
+| **IPL API**                     | API           | [ipl-api](https://github.com/arv-anshul/ipl-api)                                     | `pd-plt • fastapi • flask`                      |
 | **Simple Attendance System**    | Database      | [attendaadnce-system](https://github.com/arv-anshul/attendaadnce-system)             | `MongoDB • streamlit`                           |
-| **Spotify Dashboard**           | Analysis      | [spotify-dashboard](https://github.com/arv-anshul/spotify-dashboard)                 | `pd-plt-sns • plotly • streamlit`               |
 | **India Census 2011 Analysis**  | Analysis      | [India-census-2011](https://github.com/arv-anshul/India-census-2011)                 | `pd-plt-sns • plotly • streamlit`               |
 | **PW Experience Portal**        | Analysis      | [pw-experience-portal](https://github.com/arv-anshul/pw-experience-portal)           | `pandas • streamlit`                            |
-| **Indian Real Estate Analysis** | Real Estate   | [campusx-project-notebooks](https://github.com/arv-anshul/campusx-project-notebooks) | `pd-np-plt-sns • statsmodels • scipy • sklearn` |
+| **Spotify Dashboard**           | Analysis      | [spotify-dashboard](https://github.com/arv-anshul/spotify-dashboard)                 | `pd-plt-sns • plotly • streamlit`               |
 
 </details>
 
