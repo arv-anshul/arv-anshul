@@ -22,53 +22,53 @@
 <details>
 <summary><h3>Data Science Projects</h3></summary>
 
-| Project Name                           | Domain      | Repo                                                                         | Libraries                       |
-| -------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ------------------------------- |
-| **PW Course Assignment Solution**      | NLP         | [Link](http://github.com/arv-anshul/pw-impact-batch)                         | `nltk • streamlit`              |
-| **Backorder Prediction System**        | E-Commerce  | [Link](http://github.com/arv-anshul/ineuron-backorder-prediction)            | `sklearn • streamlit`           |
-| **Money Laundering Prevention System** | Banking     | [Link](https://github.com/arv-anshul/ineuron-money-laundering)               | `sklearn • streamlit`           |
-| **APS Fault Detection System**         | Detection   | [Link](https://github.com/arv-anshul/ineuron_internship_)                    | `sklearn • streamlit • MongoDB` |
-| **Credit Card Default Prediction**     | Banking     | [Link](https://github.com/arv-anshul/inueron-credit-card-default-prediction) | `sklearn`                       |
-| **Crop Recommendation System**         | Agriculture | [Link](https://github.com/arv-anshul/crop-recommendation)                    | `pandas • matplotlib • seaborn` |
-| **Indian Real Estate Project**         | Real Estate | [Link](https://github.com/arv-anshul/campusx-real-estate)                    | `sklearn • statsmodels • scipy` |
+| Project Name                           | Domain      | Repo                                                                                                           | Libraries                       |
+| -------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **PW Course Assignment Solution**      | NLP         | [pw-impact-batch](http://github.com/arv-anshul/pw-impact-batch)                                                | `nltk • streamlit`              |
+| **Backorder Prediction System**        | E-Commerce  | [ineuron-backorder-prediction](http://github.com/arv-anshul/ineuron-backorder-prediction)                      | `sklearn • streamlit`           |
+| **Money Laundering Prevention System** | Banking     | [ineuron-money-laundering](https://github.com/arv-anshul/ineuron-money-laundering)                             | `sklearn • streamlit`           |
+| **APS Fault Detection System**         | Detection   | [ineuron*internship*](https://github.com/arv-anshul/ineuron_internship_)                                       | `sklearn • streamlit • MongoDB` |
+| **Credit Card Default Prediction**     | Banking     | [ineuron-credit-card-default-prediction](https://github.com/arv-anshul/ineuron-credit-card-default-prediction) | `sklearn`                       |
+| **Crop Recommendation System**         | Agriculture | [crop-recommendation](https://github.com/arv-anshul/crop-recommendation)                                       | `pandas • matplotlib • seaborn` |
+| **Indian Real Estate Project**         | Real Estate | [campusx-real-estate](https://github.com/arv-anshul/campusx-real-estate)                                       | `sklearn • statsmodels • scipy` |
 
 </details>
 
 <details>
 <summary><h3>Data Related Projects / Works</h3></summary>
 
-| Project Name                    | Tag           | Repo                                                            | Libraries                                       |
-| ------------------------------- | ------------- | --------------------------------------------------------------- | ----------------------------------------------- |
-| **IPL API**                     | API           | [Link](https://github.com/arv-anshul/ipl-api)                   | `pd-plt • fastapi • flask`                      |
-| **Web Scrape 99acres.com**      | Web Scrapping | [Link](https://github.com/arv-anshul/99acres-scrape)            | `asycnio • aiohttp • streamlit • pydantic`      |
-| **Simple Attendance System**    | Database      | [Link](https://github.com/arv-anshul/attendaadnce-system)       | `MongoDB • streamlit`                           |
-| **Spotify Dashboard**           | Analysis      | [Link](https://github.com/arv-anshul/spotify-dashboard)         | `pd-plt-sns • plotly • streamlit`               |
-| **India Census 2011 Analysis**  | Analysis      | [Link](https://github.com/arv-anshul/India-census-2011)         | `pd-plt-sns • plotly • streamlit`               |
-| **PW Experience Portal**        | Analysis      | [Link](https://github.com/arv-anshul/pw-experience-portal)      | `pandas • streamlit`                            |
-| **Indian Real Estate Analysis** | Real Estate   | [Link](https://github.com/arv-anshul/campusx-project-notebooks) | `pd-np-plt-sns • statsmodels • scipy • sklearn` |
+| Project Name                    | Tag           | Repo                                                                                 | Libraries                                       |
+| ------------------------------- | ------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| **IPL API**                     | API           | [ipl-api](https://github.com/arv-anshul/ipl-api)                                     | `pd-plt • fastapi • flask`                      |
+| **Web Scrape 99acres.com**      | Web Scrapping | [99acres-scrape](https://github.com/arv-anshul/99acres-scrape)                       | `asycnio • aiohttp • streamlit • pydantic`      |
+| **Simple Attendance System**    | Database      | [attendaadnce-system](https://github.com/arv-anshul/attendaadnce-system)             | `MongoDB • streamlit`                           |
+| **Spotify Dashboard**           | Analysis      | [spotify-dashboard](https://github.com/arv-anshul/spotify-dashboard)                 | `pd-plt-sns • plotly • streamlit`               |
+| **India Census 2011 Analysis**  | Analysis      | [India-census-2011](https://github.com/arv-anshul/India-census-2011)                 | `pd-plt-sns • plotly • streamlit`               |
+| **PW Experience Portal**        | Analysis      | [pw-experience-portal](https://github.com/arv-anshul/pw-experience-portal)           | `pandas • streamlit`                            |
+| **Indian Real Estate Analysis** | Real Estate   | [campusx-project-notebooks](https://github.com/arv-anshul/campusx-project-notebooks) | `pd-np-plt-sns • statsmodels • scipy • sklearn` |
 
 </details>
 
 <details>
 <summary><h3>Python Projects</h3></summary>
 
-| Project Name                    | Repo                                                      | Libraries                                         |
-| ------------------------------- | --------------------------------------------------------- | ------------------------------------------------- |
-| **PW API**                      | [Link](https://github.com/arv-anshul/pw-api)              | `BeautifulSoup • requests • streamlit • pydantic` |
-| **DocString Generator**         | [Link](https://github.com/arv-anshul/docstring-generator) | `ast • black • isort • openai • langchain`        |
-| **Statistics Graphs - CampusX** | [Link](https://github.com/arv-anshul/campusx-graphs)      | `numpy • matplotlib • streamlit`                  |
+| Project Name                    | Repo                                                                     | Libraries                                         |
+| ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
+| **PW API**                      | [pw-api](https://github.com/arv-anshul/pw-api)                           | `BeautifulSoup • requests • streamlit • pydantic` |
+| **DocString Generator**         | [docstring-generator](https://github.com/arv-anshul/docstring-generator) | `ast • black • isort • openai • langchain`        |
+| **Statistics Graphs - CampusX** | [campusx-graphs](https://github.com/arv-anshul/campusx-graphs)           | `numpy • matplotlib • streamlit`                  |
 
 </details>
 
 <details>
 <summary><h3>Other Projects</h3></summary>
 
-| Project Name                       | Repo                                                                | Language | Tags                          |
-| ---------------------------------- | ------------------------------------------------------------------- | -------- | ----------------------------- |
-| **Distraction Free YouTube Theme** | [Link](https://github.com/arv-anshul/Distraction-Free-YT-Stylus)    | CSS      | YouTube, Theme                |
-| **ML Project Template**            | [Link](https://github.com/arv-anshul/ml-project-template)           | Python   | Project Template, ML          |
-| **My Custom Themes**               | [Link](https://github.com/arv-anshul/stylus-custom-themes)          | CSS      | CSS, Custom Theme             |
-| **Project Docs Generator**         | [Link](https://github.com/arv-anshul/ineuron-project-docs-template) | Python   | Markdown, YAML, Documentation |
+| Project Name                       | Repo                                                                                         | Language | Tags                          |
+| ---------------------------------- | -------------------------------------------------------------------------------------------- | -------- | ----------------------------- |
+| **Distraction Free YouTube Theme** | [Distraction-Free-YT-Stylus](https://github.com/arv-anshul/Distraction-Free-YT-Stylus)       | CSS      | YouTube, Theme                |
+| **ML Project Template**            | [ml-project-template](https://github.com/arv-anshul/ml-project-template)                     | Python   | Project Template, ML          |
+| **My Custom Themes**               | [stylus-custom-themes](https://github.com/arv-anshul/stylus-custom-themes)                   | CSS      | CSS, Custom Theme             |
+| **Project Docs Generator**         | [ineuron-project-docs-template](https://github.com/arv-anshul/ineuron-project-docs-template) | Python   | Markdown, YAML, Documentation |
 
 </details>
 
