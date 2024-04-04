@@ -11,10 +11,11 @@
 <h3 align="center" style="font-weight: bold;">🤝 Connect with Me 🤝</h3>
 
 <p align="center">
-  <a href="https://arv-anshul.github.com/" title="My Personal Website"><img width="35px" src="https://emojigraph.org/media/apple/man-technologist_1f468-200d-1f4bb.png"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://arv-anshul.github.io/" title="My Personal Website"><img width="35px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/website-5685924-4752633.png?f=webp&w=512"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/arv-anshul/arv-anshul/raw/main/resume_arv-anshul.pdf" title="My Resume as PDF"><img width="35px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/resume-4263904-3539012.png?f=webp&w=512"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/arv-anshul"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arv-anshul"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:arv.anshul.1864@gmail.com"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:arv.anshul.1864@gmail.com"><img width="35px" src="https://cdn.iconscout.com/icon/free/png-512/free-mail-781-461597.png?f=webp&w=512"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ### 🖥️ My Personal Website
@@ -24,24 +25,25 @@
 - 📓 [**Projects Details**](https://arv-anshul.github.io/projects "See My Projects Details"): In-depth information and specifications about each project, offering a closer look into the methodologies, challenges, and solutions implemented during the development process.
 - 📝 [**Blogs**](https://arv-anshul.github.io/blog "See My Blogs"): A collection of insightful and informative blogs covering a range of topics, sharing knowledge and experiences with the audience.
 
-[👀 See my website](https://arv-anshul.github.io/projects)
+👀 [Go to my website](https://arv-anshul.github.io/projects)
 
 ### 📋 Data Science Projects
 
 | Project Name                           | Domain         | Repository Link                                                                    |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- |
 | **YouTube Watch History Analyser**     | Recommendation | [yt-watch-history](https://github.com/arv-anshul/yt-watch-history)                 |
+| **Spotify Streaming History Analysis** | Analysis       | [spotify-analysis](https://github.com/arv-anshul/spotify-analysis)                 |
 | **Indian Real Estate Project**         | Real Estate    | [campusx-real-estate](https://github.com/arv-anshul/campusx-real-estate)           |
 | **E-commerce Scrapper API - FastAPI**  | E-commerce     | [ecommerce-scrapper-api](https://github.com/arv-anshul/ecommerce-scrapper-api)     |
 | **PW Course Assignment Solution**      | NLP            | [pw-impact-batch](http://github.com/arv-anshul/pw-impact-batch)                    |
-| **Money Laundering Prevention System** | Banking        | [ineuron-money-laundering](https://github.com/arv-anshul/ineuron-money-laundering) |
 
-👀 Want to **see my awesome projects** go to [my website...](https://arv-anshul.github.io/projects)
+👀 Want to **see my awesome projects** go to [website](https://arv-anshul.github.io/projects)
 
 ### 🚀 Skills
 
 **Languages, Libraries & Frameworks**
 
+![Bash](https://img.shields.io/badge/BASH-4D4D4D?logo=windowsterminal&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
@@ -49,6 +51,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)
 
@@ -65,19 +68,18 @@
 
 **Dev Tools & Workflows**
 
-![Bash](https://img.shields.io/badge/BASH-4D4D4D?logo=windowsterminal&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?logo=githubactions&logoColor=fff)
 ![Mkdocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=fff)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff)
 ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?logo=precommit&logoColor=fff)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+![Zed](https://img.shields.io/badge/Zed-000?logo=zedindustries&logoColor=fff)
 
-👀 Want to **see my portfolio** go to [my website...](https://arv-anshul.github.io/about)
+👀 Want to **see my portfolio** go to [website](https://arv-anshul.github.io/about)
 
 <details>
 <summary><h3>📊 Github Stats</h3></summary>
