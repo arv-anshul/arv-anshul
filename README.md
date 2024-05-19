@@ -1,12 +1,8 @@
 <h1 align="center" style="font-weight: bold;">I'm Anshul Raj Verma</h1>
 
-- I am currently **based in Bihar, India**.
-- My goal is to **become a efficient data scientist** who integrate his ML models in cloud efficiently.
-- I have been **actively learning various aspects of data science**, including Machine Learning (ML), Natural Language Processing (NLP), and Machine Learning Operations (MLOps).
-- I have a strong command of Python, with proficiency in essential programming **concepts like Object-Oriented Programming (OOP), Async Programming, and Type Hinting in Python**.
-- I am also well-versed in web development, having experience with **web frameworks such as Streamlit and FastAPI**. Checkout one of my work [here][yt-watch-history-v2].
-- I possess **a very good web scraping skills**, allowing me to extract data from dynamically loaded websites. Checkout one of my work [here][ecommerce-scrapper-api].
-- As I am continuously learning technologies, **I have done multiple ML projects**. Checkout my work/projects [here][projects].
+Currently, I am in 12th standard but dedicated to mastering Data Science and ML for the past two years.
+I've built a very good knowledge in Python and Data Science libraries.
+I've developed a solid foundation and applied it to various projects, you can see them on my [website][projects].
 
 <h3 align="center" style="font-weight: bold;">🤝 Connect with Me 🤝</h3>
 
