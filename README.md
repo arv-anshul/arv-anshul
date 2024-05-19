@@ -4,9 +4,9 @@
 - My goal is to **become a efficient data scientist** who integrate his ML models in cloud efficiently.
 - I have been **actively learning various aspects of data science**, including Machine Learning (ML), Natural Language Processing (NLP), and Machine Learning Operations (MLOps).
 - I have a strong command of Python, with proficiency in essential programming **concepts like Object-Oriented Programming (OOP), Async Programming, and Type Hinting in Python**.
-- I am also well-versed in web development, having experience with **web frameworks such as Streamlit and FastAPI**. Checkout one of my work [here](https://github.com/arv-anshul/yt-watch-history).
-- I possess **a very good web scraping skills**, allowing me to extract data from dynamically loaded websites. Checkout one of my work [here](https://github.com/arv-anshul/ecommerce-scrapper-api).
-- As I am continuously learning technologies, **I have done multiple ML projects**. Checkout my work/projects [here](https://arv-anshul.github.io/projects).
+- I am also well-versed in web development, having experience with **web frameworks such as Streamlit and FastAPI**. Checkout one of my work [here][yt-watch-history-v2].
+- I possess **a very good web scraping skills**, allowing me to extract data from dynamically loaded websites. Checkout one of my work [here][ecommerce-scrapper-api].
+- As I am continuously learning technologies, **I have done multiple ML projects**. Checkout my work/projects [here][projects].
 
 <h3 align="center" style="font-weight: bold;">🤝 Connect with Me 🤝</h3>
 
@@ -20,24 +20,25 @@
 
 ### 🖥️ My Personal Website
 
-- 👨 [**Portfolio**](https://arv-anshul.github.io/about "See My Portfolio"): Showcase of my skills, achievements, and projects to provide an overview of my professional journey.
-- 🗂️ [**Project Index**](https://arv-anshul.github.io/projects "See My Projects"): A comprehensive index highlighting the details of various projects I've undertaken, including descriptions, technologies used, and outcomes.
-- 📓 [**Projects Details**](https://arv-anshul.github.io/projects "See My Projects Details"): In-depth information and specifications about each project, offering a closer look into the methodologies, challenges, and solutions implemented during the development process.
-- 📝 [**Blogs**](https://arv-anshul.github.io/blog "See My Blogs"): A collection of insightful and informative blogs covering a range of topics, sharing knowledge and experiences with the audience.
+- 👨 [**Portfolio**][website]: Showcase of my skills, achievements, and projects to provide an overview of my professional journey.
+- 🗂️ [**Project Index**][projects]: A comprehensive index highlighting the details of various projects I've undertaken, including descriptions, technologies used, and outcomes.
+- 📓 [**Projects Details**][projects]: In-depth information and specifications about each project, offering a closer look into the methodologies, challenges, and solutions implemented during the development process.
+- 📝 [**Blogs**][blogs]: A collection of insightful and informative blogs covering a range of topics, sharing knowledge and experiences with the audience.
 
-👀 [Go to my website](https://arv-anshul.github.io/projects)
+👀 [Go to my website][projects]
 
 ### 📋 Data Science Projects
 
-| Project Name                           | Domain         | Repository Link                                                                    |
-| -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- |
-| **YouTube Watch History Analyser**     | Recommendation | [yt-watch-history](https://github.com/arv-anshul/yt-watch-history)                 |
-| **Spotify Streaming History Analysis** | Analysis       | [spotify-analysis](https://github.com/arv-anshul/spotify-analysis)                 |
-| **Indian Real Estate Project**         | Real Estate    | [campusx-real-estate](https://github.com/arv-anshul/campusx-real-estate)           |
-| **E-commerce Scrapper API - FastAPI**  | E-commerce     | [ecommerce-scrapper-api](https://github.com/arv-anshul/ecommerce-scrapper-api)     |
-| **PW Course Assignment Solution**      | NLP            | [pw-impact-batch](http://github.com/arv-anshul/pw-impact-batch)                    |
+| Project Name                          | Domain         | Repository Link          |
+| ------------------------------------- | -------------- | ------------------------ |
+| **YouTube Watch History Analyser**    | Recommendation | [yt-watch-history-v2]    |
+| **My Data Science Notebooks**         | EDA Notebooks  | [notebooks]              |
+| **Indian Real Estate Project**        | Real Estate    | [campusx-real-estate]    |
+| **E-commerce Scrapper API - FastAPI** | E-commerce     | [ecommerce-scrapper-api] |
+| **PW Course Assignment Solution**     | NLP            | [pw-impact-batch]        |
+| **FreeAPI in Python using FastAPI**   | FastAPI        | [freeapi-py]             |
 
-👀 Want to **see my awesome projects** go to [website](https://arv-anshul.github.io/projects)
+👀 Want to **see my awesome projects** go to [website][projects]
 
 ### 🚀 Skills
 
@@ -76,18 +77,30 @@
 ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?logo=precommit&logoColor=fff)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff)
+![Rye](https://img.shields.io/badge/Rye-000?logo=rye&logoColor=fff&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
 ![Zed](https://img.shields.io/badge/Zed-000?logo=zedindustries&logoColor=fff)
 
-👀 Want to **see my portfolio** go to [website](https://arv-anshul.github.io/about)
+👀 Want to **see my portfolio** go to [website][about]
 
 <details>
 <summary><h3>📊 Github Stats</h3></summary>
 
-<p align="center" >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arv-anshul&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="arv-anshul" height=150>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arv-anshul&theme=transparent&hide_border=true" alt="arv-anshul" height=150>
   <img src="https://github-readme-stats.vercel.app/api?username=arv-anshul&rank_icon=percentile&theme=transparent&hide_border=true&include_all_commits=true" alt="arv-anshul" height=150>
 </p>
 
 </details>
+
+[about]: https://arv-anshul.github.io/about
+[blogs]: https://arv-anshul.github.io/blog "My Blogs"
+[campusx-real-estate]: https://github.com/arv-anshul/campusx-real-estate
+[ecommerce-scrapper-api]: https://github.com/arv-anshul/ecommerce-scrapper-api
+[freeapi-py]: https://github.com/arv-anshul/freeapi-py
+[notebooks]: https://github.com/arv-anshul/notebooks
+[projects]: https://arv-anshul.github.io/project "My Projects Details"
+[pw-impact-batch]: https://github.com/arv-anshul/pw-impact-batch
+[website]: https://arv-anshul.github.io
+[yt-watch-history-v2]: https://github.com/arv-anshul/yt-watch-history-v2
