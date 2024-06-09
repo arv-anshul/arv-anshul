@@ -6,7 +6,7 @@ them on my [website][projects].
 
 <p align="center">
 <a href="https://arv-anshul.github.io/about"><strong>↖ about</strong></a> &nbsp;
-<a href="https://arv-anshul.github.io/project"><strong>↓ projects</strong></a> &nbsp;
+<a href="https://arv-anshul.github.io/project" title="❤️ favorite projects listed below"><strong>↓ projects</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/blog"><strong>↖ blogs</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/notebooks"><strong>↖ notebooks</strong></a> &nbsp;
 <a href="https://linkedin.com/in/arv-anshul"><strong>↖ linkedin</strong></a> &nbsp;
