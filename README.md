@@ -9,8 +9,8 @@ them on my [website][projects].
 <a href="https://arv-anshul.github.io/project" title="❤️ favorite projects listed below"><strong>↓ projects</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/blog"><strong>↖ blogs</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/notebooks"><strong>↖ notebooks</strong></a> &nbsp;
-<a href="https://linkedin.com/in/arv-anshul"><strong>↖ linkedin</strong></a> &nbsp;
-<a href="https://github.com/arv-anshul"><strong>↖ github</strong></a> &nbsp;
+<a href="https://arv-anshul.github.io/linkedin"><strong>↖ linkedin</strong></a> &nbsp;
+<a href="https://arv-anshul.github.io/gh"><strong>↖ github</strong></a> &nbsp;
 <a href="mailto:arv.anshul.1864@gmail.com"><strong>↖ mail</strong></a> &nbsp;
 </p>
 
