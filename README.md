@@ -5,8 +5,12 @@ Python and Data Science libraries. I've developed a solid foundation and applied
 them on my [website][projects].
 
 <p align="center">
+  <strong>🧑‍💻 Data Scinece Intern at LeapX.ai</strong>
+</p>
+
+<p align="center">
 <a href="https://arv-anshul.github.io/about"><strong>↖ about</strong></a> &nbsp;
-<a href="https://arv-anshul.github.io/projects" title="❤️ favorite projects listed below"><strong>↓ projects</strong></a> &nbsp;
+<a href="https://arv-anshul.github.io/projects" title="❤️ favorite projects listed below"><strong>↙ projects</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/blog"><strong>↖ blog</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/notebooks"><strong>↖ notebooks</strong></a> &nbsp;
 <a href="https://arv-anshul.github.io/linkedin"><strong>↖ linkedin</strong></a> &nbsp;
