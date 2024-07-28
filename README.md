@@ -1,4 +1,6 @@
-<h1 align="center" style="font-weight: bold;">I'm Anshul Raj Verma</h1>
+<h1 align="center">
+  <strong>I'm Anshul Raj Verma</strong>
+</h1>
 
 A 17 y/o guy dedicated to mastering Data Science and ML for the past two years. I've built a very good knowledge in
 Python and Data Science libraries. I've developed a solid foundation and applied it to various projects, you can see
