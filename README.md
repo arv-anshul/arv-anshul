@@ -7,13 +7,13 @@ Python and Data Science libraries. Also developed a solid foundation and applied
 them on my [website].
 
 <p align="center">
-  <a href="https://arv-anshul.github.io/about"><strong>↖ about</strong></a> &nbsp;
-  <a href="https://arv-anshul.github.io/projects" title="projects listed below"><strong>↙ projects</strong></a> &nbsp;
-  <a href="https://arv-anshul.github.io/blog"><strong>↖ blog</strong></a> &nbsp;
-  <a href="https://arv-anshul.github.io/notebooks"><strong>↖ notebooks</strong></a> &nbsp;
-  <a href="https://arv-anshul.github.io/linkedin"><strong>↖ linkedin</strong></a> &nbsp;
-  <a href="https://arv-anshul.github.io/gh"><strong>↖ github</strong></a> &nbsp;
-  <a href="mailto:arv.anshul.1864@gmail.com"><strong>↖ mail</strong></a> &nbsp;
+  <a href="https://arv-anshul.github.io/about"><strong>&#8598; about</strong></a> &nbsp;
+  <a href="https://arv-anshul.github.io/projects" title="projects listed below"><strong>&#8601; projects</strong></a> &nbsp;
+  <a href="https://arv-anshul.github.io/blog"><strong>&#8598; blog</strong></a> &nbsp;
+  <a href="https://arv-anshul.github.io/notebooks"><strong>&#8598; notebooks</strong></a> &nbsp;
+  <a href="https://arv-anshul.github.io/linkedin"><strong>&#8598; linkedin</strong></a> &nbsp;
+  <a href="https://arv-anshul.github.io/gh"><strong>&#8598; github</strong></a> &nbsp;
+  <a href="mailto:arv.anshul.1864@gmail.com"><strong>&#8598; mail</strong></a> &nbsp;
 </p>
 
 | Project                  | Description                                                                  |
