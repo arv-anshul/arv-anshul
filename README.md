@@ -2,11 +2,20 @@
   <strong>I'm Anshul Raj Verma</strong>
 </h1>
 
-A 17 y/o guy dedicated to mastering Data Science, ML and DL for the past 3 years. I've built a very good knowledge in
-Python and Data Science libraries. Also developed a solid foundation and applied it to various projects, you can see
-them on my [web/project].
+I'm an 18-year-old passionate about **Data Science, Machine Learning (ML), and Deep Learning (DL)**. For the past three
+years, I've been honing my skills in **Python**, along with key data science libraries like **NumPy, Pandas, Matplotlib,
+Scikit-Learn, TensorFlow, and PyTorch**.
+
+I have built a solid foundation in **data analysis, machine learning algorithms, and deep learning models**, applying
+them to real-world projects spanning **predictive analytics, computer vision, NLP, large language models (LLMs), and AI
+agents**.
+
+You can check out some of my [projects here][web/project].
+
+---
 
 <p align="center">
+  <a href="https://arv-anshul.github.io"><strong>&#8598; website</strong></a> &nbsp;
   <a href="https://arv-anshul.github.io/about"><strong>&#8598; about</strong></a> &nbsp;
   <a href="https://arv-anshul.github.io/projects" title="projects listed below"><strong>&#8601; projects</strong></a> &nbsp;
   <a href="https://arv-anshul.github.io/blog"><strong>&#8598; blog</strong></a> &nbsp;
@@ -16,8 +25,12 @@ them on my [web/project].
   <a href="mailto:arv.anshul.1864@gmail.com"><strong>&#8598; mail</strong></a> &nbsp;
 </p>
 
+---
+
+<div align="center">
+
 | Project                  | Description                                                                  |
-| :----------------------- | :--------------------------------------------------------------------------- |
+| -----------------------: | :--------------------------------------------------------------------------- |
 | **Generative AI**        |                                                                              |
 | [canvas-ai]              | Parse and Analyse image containing mathematical expression or problem.       |
 | **Data Science**         |                                                                              |
@@ -40,6 +53,8 @@ them on my [web/project].
 | [resume]                 | Generate resume from JSON using python.                                      |
 | [curler]                 | Python package to import curl command in python.                             |
 | [ColdTurkeyBlocker-Pro]  | Enable the PRO features in ColdTurkeyBlocker.                                |
+
+</div>
 
 [99acres-scrape]: https://github.com/arv-anshul/99acres-scrape
 [arv-anshul.github.io]: https://github.com/arv-anshul/arv-anshul.github.io
