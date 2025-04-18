@@ -2,17 +2,11 @@
   <strong>I'm Anshul Raj Verma</strong>
 </h1>
 
-I'm an 18-year-old passionate about **Data Science, Machine Learning (ML), and Deep Learning (DL)**. For the past three
-years, I've been honing my skills in **Python**, along with key data science libraries like **NumPy, Pandas, Matplotlib,
-Scikit-Learn, TensorFlow, and PyTorch**.
-
-I have built a solid foundation in **data analysis, machine learning algorithms, and deep learning models**, applying
-them to real-world projects spanning **predictive analytics, computer vision, NLP, large language models (LLMs), and AI
-agents**.
-
-You can check out some of my [projects here][web/project].
-
----
+Hello! I’m Anshul Raj Verma, a Data Scientist passionate about harnessing GenAI to solve real‑world problems. Since
+2021, I’ve sharpened my skills through a six‑month Data Science & AI internship and a series of self‑driven projects,
+becoming proficient in Python and Data Science concepts. I’ve also built end‑to‑end GenAI applications using LangChain,
+LangGraph, and MCP concepts—experience that’s fuelled my drive to design intelligent, scalable solutions. I’m excited to
+bring this expertise to your team and help turn bold AI visions into reality.
 
 <p align="center">
   <a href="https://arv-anshul.github.io"><strong>&#8598; website</strong></a> &nbsp;
@@ -25,34 +19,31 @@ You can check out some of my [projects here][web/project].
   <a href="mailto:arv.anshul.1864@gmail.com"><strong>&#8598; mail</strong></a> &nbsp;
 </p>
 
----
-
 <div align="center">
 
-| Project                  | Description                                                                  |
+|                  Project | Description                                                                  |
 | -----------------------: | :--------------------------------------------------------------------------- |
-| **Generative AI**        |                                                                              |
-| [canvas-ai]              | Parse and Analyse image containing mathematical expression or problem.       |
-| **Data Science**         |                                                                              |
-| [yt-comment-sentiment]   | YT comments Sentiment prediction end-to-end project. (MLFlow, DVC & FastAPI) |
-| [yt-watch-history-v2]    | Analyse your YouTube watch history with ML models                            |
-| [campusx-real-estate]    | Analyse Indian Real Estate and Property Price Prediction                     |
-| [pw-impact-batch]        | Get assignments' solution by quering questions                               |
-| **API & Web Scraping**   |                                                                              |
+|        **Generative AI** |                                                                              |
+|              [canvas-ai] | Parse and Analyse image containing mathematical expression or problem.       |
+|         **Data Science** |                                                                              |
+|   [yt-comment-sentiment] | YT comments Sentiment prediction end-to-end project. (MLFlow, DVC & FastAPI) |
+|    [yt-watch-history-v2] | Analyse your YouTube watch history with ML models                            |
+|    [campusx-real-estate] | Analyse Indian Real Estate and Property Price Prediction                     |
+|        [pw-impact-batch] | Get assignments' solution by quering questions                               |
+|   **API & Web Scraping** |                                                                              |
 | [ecommerce-scrapper-api] | APIs to scrape scrape e-commerce website like Flipkart                       |
-| [freeapi-py]             | `freeapi.app` project in Python using FastAPI and MongoDB                    |
-| [hockey]                 | Scrape Hockey related data using Scrapy. [Data on Kaggle][kaggle/hockey]     |
-| [99acres-scrape]         | Scrape properties from 99acres.com using streamlit web-app                   |
-| [housing-scrape]         | Scrape properties from Housing.com using API                                 |
-| **Resources**            |                                                                              |
-| [notebooks]              | Jupyter Notebooks related to my projects.                                    |
-| [campusx]                | Learning material from CampusX's DSMP course.                                |
-| [thrust]                 | Contains codes & projects created while learning Rust.                       |
-| **Others**               |                                                                              |
-| [arv-anshul.github.io]   | Personal website with `material-mkdocs`. [Check Website][website]            |
-| [resume]                 | Generate resume from JSON using python.                                      |
-| [curler]                 | Python package to import curl command in python.                             |
-| [ColdTurkeyBlocker-Pro]  | Enable the PRO features in ColdTurkeyBlocker.                                |
+|             [freeapi-py] | `freeapi.app` project in Python using FastAPI and MongoDB                    |
+|                 [hockey] | Scrape Hockey related data using Scrapy. [Data on Kaggle][kaggle/hockey]     |
+|         [99acres-scrape] | Scrape properties from 99acres.com using streamlit web-app                   |
+|         [housing-scrape] | Scrape properties from Housing.com using API                                 |
+|            **Resources** |                                                                              |
+|              [notebooks] | Jupyter Notebooks related to my projects.                                    |
+|                [campusx] | Learning material from CampusX's DSMP course.                                |
+|                 [thrust] | Contains codes & projects created while learning Rust.                       |
+|               **Others** |                                                                              |
+|   [arv-anshul.github.io] | Personal website with `material-mkdocs`. [Check Website][website]            |
+|                 [curler] | Python package to import curl command in python.                             |
+|  [ColdTurkeyBlocker-Pro] | Enable the PRO features in ColdTurkeyBlocker.                                |
 
 </div>
 
@@ -70,9 +61,7 @@ You can check out some of my [projects here][web/project].
 [kaggle/hockey]: https://www.kaggle.com/datasets/arvanshul/hockey-india-league-2025/data
 [notebooks]: https://github.com/arv-anshul/notebooks
 [pw-impact-batch]: https://github.com/arv-anshul/pw-impact-batch
-[resume]: https://github.com/arv-anshul/resume
 [thrust]: https://github.com/arv-anshul/thrust
-[web/project]: https://arv-anshul.github.io/project "My Projects Details"
 [website]: https://arv-anshul.github.io
 [yt-comment-sentiment]: https://github.com/arv-anshul/yt-comment-sentiment
 [yt-watch-history-v2]: https://github.com/arv-anshul/yt-watch-history-v2
